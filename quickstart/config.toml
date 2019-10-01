@@ -1,0 +1,27 @@
+BaseUrl= "https://rif.marketing/"
+LanguageCode= "en-US"
+Title= "Rif Marketing"
+paginate = 5
+DisqusShortname = ""
+Copyright = "All rights reserved - 2019"
+canonifyurls = true
+
+[author]
+  name = "Charles Flagle"
+
+[params]
+  description = "Stay-at-home dad who really loves marketing..."
+  cover = "images/rmlogo1.jpg"
+  author = "Charles"
+  authorlocation = "Baltimore, MD"
+  authorwebsite = "https://rif.marketing"
+  bio= "I'm a stay-at-home dad who really loves marketing..."
+  logo = "images/rmlogo1.png"
+  googleAnalyticsUserID = "UA-137602623-11"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "cflagle"
+  twitterName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  mainSections = ["post"]
